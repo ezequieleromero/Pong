@@ -1,5 +1,23 @@
 # Pong
 
+
+Citations
+---------
+Main Pong Tutorial: https://www.youtube.com/watch?v=1oY--Zk9b6w&t=693s&ab_channel=TanaySinghal
+Screen Shake Tutorial: https://www.youtube.com/watch?v=rlBZL-woa9U&ab_channel=IndieNuggets
+Bloom/Glow Tutorial: https://www.youtube.com/watch?v=MxjsGCUDiwo&ab_channel=WeeklyHow
+Button Tutorial: https://www.youtube.com/watch?v=7KR5IKi8m8g&feature=youtu.be&ab_channel=TroublesomeGirl
+
+All of these links helped me in some way fix bugs or learn new features
+Sorting Layers: https://answers.unity.com/questions/1611958/sorting-layers-not-working-after-build.html
+TextMeshPro: https://forum.unity.com/threads/textmeshpro-text-doesnt-show-up-in-built-game.538121/
+Application Quit Help: https://answers.unity.com/questions/1748376/applicationquit-not-working-in-unity-2019.html
+Variables between Scenes: https://gamedev.stackexchange.com/questions/110958/what-is-the-proper-way-to-handle-data-between-scenes
+Debugging Two of the same Class names: https://answers.unity.com/questions/479572/the-namespace-global-already-contains-a-definition.html
+Button (Change Scene): https://answers.unity.com/questions/1291944/button-that-change-scene-on-click.html
+Change Font: https://docs.unity3d.com/ScriptReference/GUISkin-font.html
+Change Color: https://answers.unity.com/questions/389027/how-do-you-change-the-color-of-an-obect-cube-cylin.html
+
 Quick Launch
 ------------
 o Double click the Pong.exe file and it will run.
