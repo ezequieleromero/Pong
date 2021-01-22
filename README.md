@@ -2,10 +2,10 @@
 
 Quick Launch
 ------------
-o Double click the pong.exe file and it will run.
-o Check "windowed" in the "pong configuration" menu. It will be easier to close the program
-o Use the "a" and "d" keys to move the paddle on the right.
-o A game goes to 10 points, gives a GAME OVER message and restarts.
+o Double click the Pong.exe file and it will run.
+o Click the Play button to move on, then click a difficulty, then click continue on the help page to play the game
+o Use the "W" and "S" keys to move the paddle on the Left.
+o A game goes to 11 points, gives a WIN message.
 
 Compiling the code
 ------------------
