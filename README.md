@@ -20,8 +20,9 @@ Change Color: https://answers.unity.com/questions/389027/how-do-you-change-the-c
 
 Quick Launch
 ------------
-o Double click the Pong.exe file and it will run.
-o Click the Play button to move on, then click a difficulty, then click continue on the help page to play the game
+o Download the Pong.zip file and extract it anywhere.
+o Double click the Pong.exe file inside the Pong folder and it will run.
+o Click the Play button to move on, click a difficulty, then click continue on the help page to play the game
 o Use the "W" and "S" keys to move the paddle on the Left.
 o A game goes to 11 points, gives a WIN message.
 
